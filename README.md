@@ -20,9 +20,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/NishantYadav0001/leetcode_record/tree/master/0143-reorder-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/NishantYadav0001/leetcode_record/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/NishantYadav0001/leetcode_record/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/NishantYadav0001/leetcode_record/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
