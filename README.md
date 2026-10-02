@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/NishantYadav0001/leetcode_record/tree/master/0413-arithmetic-slices) |
+| [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
