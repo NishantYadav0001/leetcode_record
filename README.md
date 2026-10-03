@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NishantYadav0001/leetcode_record/tree/master/0011-container-with-most-water) |
 | [0413-arithmetic-slices](https://github.com/NishantYadav0001/leetcode_record/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NishantYadav0001/leetcode_record/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/NishantYadav0001/leetcode_record/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NishantYadav0001/leetcode_record/tree/master/0207-course-schedule) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/NishantYadav0001/leetcode_record/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
