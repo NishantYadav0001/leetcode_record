@@ -25,16 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/NishantYadav0001/leetcode_record/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/NishantYadav0001/leetcode_record/tree/master/0079-word-search) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishantYadav0001/leetcode_record/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/NishantYadav0001/leetcode_record/tree/master/0143-reorder-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishantYadav0001/leetcode_record/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishantYadav0001/leetcode_record/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NishantYadav0001/leetcode_record/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishantYadav0001/leetcode_record/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Matrix
 |  |
 | ------- |
