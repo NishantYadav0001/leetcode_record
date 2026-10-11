@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NishantYadav0001/leetcode_record/tree/master/0011-container-with-most-water) |
 | [0079-word-search](https://github.com/NishantYadav0001/leetcode_record/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/NishantYadav0001/leetcode_record/tree/master/0128-longest-consecutive-sequence) |
 | [0413-arithmetic-slices](https://github.com/NishantYadav0001/leetcode_record/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/NishantYadav0001/leetcode_record/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/NishantYadav0001/leetcode_record/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NishantYadav0001/leetcode_record/tree/master/0079-word-search) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NishantYadav0001/leetcode_record/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
