@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/NishantYadav0001/leetcode_record/tree/master/0128-longest-consecutive-sequence) |
 | [0413-arithmetic-slices](https://github.com/NishantYadav0001/leetcode_record/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NishantYadav0001/leetcode_record/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/NishantYadav0001/leetcode_record/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/NishantYadav0001/leetcode_record/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NishantYadav0001/leetcode_record/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NishantYadav0001/leetcode_record/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NishantYadav0001/leetcode_record/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 <!---LeetCode Topics End-->
