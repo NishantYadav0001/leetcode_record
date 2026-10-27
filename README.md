@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/NishantYadav0001/leetcode_record/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/NishantYadav0001/leetcode_record/tree/master/0079-word-search) |
+| [0981-time-based-key-value-store](https://github.com/NishantYadav0001/leetcode_record/tree/master/0981-time-based-key-value-store) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishantYadav0001/leetcode_record/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/NishantYadav0001/leetcode_record/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/NishantYadav0001/leetcode_record/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
+| [0981-time-based-key-value-store](https://github.com/NishantYadav0001/leetcode_record/tree/master/0981-time-based-key-value-store) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NishantYadav0001/leetcode_record/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
@@ -122,4 +124,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/NishantYadav0001/leetcode_record/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/NishantYadav0001/leetcode_record/tree/master/0981-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/NishantYadav0001/leetcode_record/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
