@@ -1,33 +1,29 @@
 class Solution {
     public int minCost(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
+        int m = grid.length;
+        int n = grid[0].length;
+        int xor_k = 1024;
+        boolean[][][] dp = new boolean[m][n][xor_k];
 
-        HashSet<Integer> [][] dp = new HashSet[n][m];
+        dp[0][0][grid[0][0]] = true;
 
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                dp[i][j] = new HashSet<>();
-            }
-        }
+        for(int i = 0;i<m;i++){
+            for(int j = 0;j<n;j++){
 
-        dp[0][0].add(grid[0][0]);
-
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                if(i > 0){
-                    for(int val : dp[i-1][j]){
-                        dp[i][j].add(val ^ grid[i][j]);
+                for(int k = 0;k<xor_k;k++){
+                    if(i>0 && dp[i-1][j][k]){
+                        dp[i][j][k ^ grid[i][j]] = true;
                     }
-                }
-                if(j>0){
-                    for(int val : dp[i][j-1]){
-                        dp[i][j].add(val ^ grid[i][j]);
+                    if(j > 0 && dp[i][j-1][k]){
+                        dp[i][j][k ^ grid[i][j]] = true;
                     }
                 }
             }
         }
 
-        return Collections.min(dp[n-1][m-1]);
+        for(int k = 0;k<xor_k;k++){
+            if(dp[m-1][n-1][k]) return k;
+        }
+        return 0;
     }
 }
