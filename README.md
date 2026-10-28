@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/NishantYadav0001/leetcode_record/tree/master/1254-number-of-closed-islands) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NishantYadav0001/leetcode_record/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/NishantYadav0001/leetcode_record/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/0022-generate-parentheses) |
 | [0413-arithmetic-slices](https://github.com/NishantYadav0001/leetcode_record/tree/master/0413-arithmetic-slices) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/NishantYadav0001/leetcode_record/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/NishantYadav0001/leetcode_record/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/NishantYadav0001/leetcode_record/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/NishantYadav0001/leetcode_record/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/NishantYadav0001/leetcode_record/tree/master/0981-time-based-key-value-store) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/NishantYadav0001/leetcode_record/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
