@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NishantYadav0001/leetcode_record/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NishantYadav0001/leetcode_record/tree/master/0033-search-in-rotated-sorted-array) |
 | [0079-word-search](https://github.com/NishantYadav0001/leetcode_record/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/NishantYadav0001/leetcode_record/tree/master/0128-longest-consecutive-sequence) |
 | [0413-arithmetic-slices](https://github.com/NishantYadav0001/leetcode_record/tree/master/0413-arithmetic-slices) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NishantYadav0001/leetcode_record/tree/master/0033-search-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/NishantYadav0001/leetcode_record/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/NishantYadav0001/leetcode_record/tree/master/0981-time-based-key-value-store) |
 ## Design
