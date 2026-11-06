@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/NishantYadav0001/leetcode_record/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NishantYadav0001/leetcode_record/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/NishantYadav0001/leetcode_record/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NishantYadav0001/leetcode_record/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/NishantYadav0001/leetcode_record/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NishantYadav0001/leetcode_record/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/NishantYadav0001/leetcode_record/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/NishantYadav0001/leetcode_record/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NishantYadav0001/leetcode_record/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
 | [0981-time-based-key-value-store](https://github.com/NishantYadav0001/leetcode_record/tree/master/0981-time-based-key-value-store) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NishantYadav0001/leetcode_record/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
