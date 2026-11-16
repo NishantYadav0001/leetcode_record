@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/NishantYadav0001/leetcode_record/tree/master/0981-time-based-key-value-store) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NishantYadav0001/leetcode_record/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishantYadav0001/leetcode_record/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NishantYadav0001/leetcode_record/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/NishantYadav0001/leetcode_record/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NishantYadav0001/leetcode_record/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
