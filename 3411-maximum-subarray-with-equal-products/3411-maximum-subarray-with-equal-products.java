@@ -7,13 +7,8 @@ class Solution {
         }
         return b;
     }
-    public int lcm(int a,int b){
-        int max = Math.max(a,b);
-        int product = 1;
-        while((max * product) % a != 0 || (max * product) % b != 0){
-            product++;
-        }
-        return max * product;
+    public int lcm(int a, int b) {
+        return (a / gcd(a, b)) * b;
     }
     public int maxLength(int[] nums) {
         int n = nums.length;
@@ -25,8 +20,6 @@ class Solution {
             for(int j = i+1;j<n;j++){
                 l = lcm(l,nums[j]);
                 g = gcd(g,nums[j]);
-                System.out.print(l + " " + g);
-                System.out.println("");
                 product = product * nums[j];
                 if(product == (long)l * (long)g){
                     ans = Math.max(ans , j - i + 1);
