@@ -1,21 +1,22 @@
-class ProductOfNumbers {    
+class ProductOfNumbers {
     List<Integer> stream;
+
     public ProductOfNumbers() {
         stream = new ArrayList<>();
+        stream.add(1);
     }
-    
+
     public void add(int num) {
-        stream.add(num);
+        if (num == 0) {
+            stream.clear();
+            stream.add(1);
+        } else
+            stream.add(stream.get(stream.size() - 1) * num);
     }
-    
+
     public int getProduct(int k) {
-        int size = stream.size();
-        int product = 1;
-        while(k-- > 0){
-            product *= stream.get(size-1);
-            size--;
-        }
-        return product;
+        if(k>= stream.size()) return 0;
+        return stream.get(stream.size() - 1) / stream.get(stream.size() - k - 1);
     }
 }
 
