@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/NishantYadav0001/leetcode_record/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/NishantYadav0001/leetcode_record/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/NishantYadav0001/leetcode_record/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/NishantYadav0001/leetcode_record/tree/master/1352-product-of-the-last-k-numbers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NishantYadav0001/leetcode_record/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/NishantYadav0001/leetcode_record/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NishantYadav0001/leetcode_record/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/NishantYadav0001/leetcode_record/tree/master/1352-product-of-the-last-k-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/NishantYadav0001/leetcode_record/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/NishantYadav0001/leetcode_record/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NishantYadav0001/leetcode_record/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NishantYadav0001/leetcode_record/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/NishantYadav0001/leetcode_record/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/NishantYadav0001/leetcode_record/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NishantYadav0001/leetcode_record/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/NishantYadav0001/leetcode_record/tree/master/3411-maximum-subarray-with-equal-products) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/NishantYadav0001/leetcode_record/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
