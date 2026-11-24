@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/NishantYadav0001/leetcode_record/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/NishantYadav0001/leetcode_record/tree/master/1267-count-servers-that-communicate) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NishantYadav0001/leetcode_record/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NishantYadav0001/leetcode_record/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NishantYadav0001/leetcode_record/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NishantYadav0001/leetcode_record/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/NishantYadav0001/leetcode_record/tree/master/3665-twisted-mirror-path-count) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/NishantYadav0001/leetcode_record/tree/master/0076-minimum-window-substring) |
 | [0413-arithmetic-slices](https://github.com/NishantYadav0001/leetcode_record/tree/master/0413-arithmetic-slices) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NishantYadav0001/leetcode_record/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NishantYadav0001/leetcode_record/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NishantYadav0001/leetcode_record/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NishantYadav0001/leetcode_record/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NishantYadav0001/leetcode_record/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
@@ -172,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NishantYadav0001/leetcode_record/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NishantYadav0001/leetcode_record/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NishantYadav0001/leetcode_record/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
